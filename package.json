@@ -22,5 +22,8 @@
   "dependencies": {
     "mongodb": "^7.1.0",
     "react": "^19.2.4"
+  },
+  "devDependencies": {
+    "vite": "^7.3.1"
   }
 }
